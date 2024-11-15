@@ -1,3 +1,5 @@
 .env
 .glitch-assets
 node_modules/
+package-lock.json
+userstories.md
